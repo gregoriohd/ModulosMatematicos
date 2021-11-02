@@ -8,6 +8,9 @@ public class Principal {
 		
 		System.out.println("Qual o maior entre dois numero: "+ new MaiorMenor().maior(10, 20) );
 		System.out.println("Qual o menor entre dois numero: "+ new MaiorMenor().menor(110, 200) );
+		System.out.println("1GB é igual a "+ new Potenciacao().potencia(2, 10)+" MB");
+		
+		
 	}
 
 }
